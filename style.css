@@ -1,6 +1,7 @@
 .container {
 padding: 48px 0px;
 background-color: black;
+display: flex;
 }
 
 .box1, 
