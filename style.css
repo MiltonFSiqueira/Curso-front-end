@@ -1,0 +1,14 @@
+.container {
+padding: 48px 0px;
+background-color: black;
+}
+
+.box1, 
+.box2,
+.box3 {
+width: 200px;
+height: 200px;
+background-color: white;
+border: solid 1px gray;
+}
+
